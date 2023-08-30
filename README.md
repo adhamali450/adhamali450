@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Typescript, Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://adhamali.tech](https://adhamali.tech)
+- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-adhamali450.vercel.app/)
 
 - 💬 Ask me about **sass, es06, react, typescript, npm, git**
 
 - 📫 How to reach me **adhamali_4500@outlook.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/7id4pjbwcxfto40/resume-digital.pdf?dl=0](https://www.dropbox.com/s/7id4pjbwcxfto40/resume-digital.pdf?dl=0)
+- 📄 Know about my experiences [My resume](https://docs.google.com/document/d/1fC5S8DYtNNRgY_W1Zqio-eF1kR2YdY3jbW1crc_GA3g/edit?usp=sharing)
 
 
 ## 🌐 Socials:
