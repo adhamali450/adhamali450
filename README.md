@@ -1,11 +1,11 @@
 <h1 align="center">Howdy, I'm Adham Ali</h1>
 <h3 align="center">A frontend developer based in Cairo, Egypt</h3>
 
-- 🌱 I’m currently learning **Typescript, Reactjs**
+- 🌱 I’m currently learning AI Engineering
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-adhamali450.vercel.app/)
 
-- 💬 Ask me about **sass, es06, react, typescript, npm, git**
+- 💬 Ask me about **React.js, Next.js, Vite, Langchain and a lot more**
 
 - 📫 How to reach me **adhamali_4500@outlook.com**
 
